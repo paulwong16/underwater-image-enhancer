@@ -8,4 +8,4 @@ TEST Video:
 
 Test Images:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hMVFj03pVUQ/0.jpg)](https://youtu.be/https://youtu.be/hMVFj03pVUQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hMVFj03pVUQ/0.jpg)](https://youtu.be/hMVFj03pVUQ)
