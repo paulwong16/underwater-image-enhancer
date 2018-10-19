@@ -1,5 +1,5 @@
-# underwater-image-enhancer
-Underwater image enhancer 
+# underwater image enhancer ICRA,2019
+Code and data will be released soon.
 
 TEST Video:
 
